@@ -1,0 +1,18 @@
+a{
+    display: inline-block;
+    text-align: right;
+    vertical-align: top;
+    padding-right: 10px;
+}
+.container{
+    display: inline-block;
+    width: 600px;
+    padding-left: 30px;
+}
+body{
+    display: flex;
+    justify-content: space-between;
+}
+p{
+    color: green;
+}
